@@ -1,0 +1,7 @@
+displayName = Haiys' Mod
+author = Haiysei
+version = 0.1
+hideCode = true
+hideResources = true
+includeSource = true
+homepage = https://discord.gg/xm88ADD
